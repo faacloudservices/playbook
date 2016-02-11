@@ -1,7 +1,7 @@
 $(function(){
 
   var $navBar = $('#navigation_bar');
-  var showNavBarMinimum = $('#introduction').height() - $navBar.height();
+  var showNavBarMinimum = $('#introduction').height() + $('#trimodal').height() - $navBar.height();
 
   var wasNavBarVisible = false;
   // change nav bar visibility on scroll

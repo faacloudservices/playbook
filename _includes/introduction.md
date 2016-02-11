@@ -1,5 +1,5 @@
-# U.S. Digital Services Playbook
+# FAA Cloud Services Playbook
 
-The American people expect to interact with government through digital channels such as websites, email, and mobile applications. By building digital services that meet their needs, we can make the delivery of our policy and programs more effective.   
+App owners expect to benefit from cloud on their own terms. By assessing tiers of functionality against ROI, the FAA cloud can transform the delivery of IT solutions without alienating stakeholders or breaking the bank.
 
-Today, too many of our digital services projects do not work well, are delivered late, or are over budget. To increase the success rate of these projects, the U.S. Government needs a new approach. We created a playbook of 13 key “plays” drawn from successful practices from the private sector and government that, if followed together, will help government build effective digital services.
+Today, operations and development do not work well together, resulting in duplication, delays, and cost overruns. To increase the success rate of IT projects, the FAA needs a new approach. We've created a playbook of successful practices from the private sector and government that, if followed together, will help modernize apps and shift Dev and Ops towards DevOps.

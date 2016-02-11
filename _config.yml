@@ -1,5 +1,5 @@
 permalink: pretty
-markdown: rdiscount
+markdown: kramdown
 highlighter: pygments
 url: http://playbook.cio.gov
 
@@ -8,3 +8,6 @@ collections:
 
 sass:
     sass_dir: assets/_sass
+
+kramdown:
+  auto_ids: false
