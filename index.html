@@ -110,7 +110,7 @@
         {% for play in site.plays %}
         <div class="inner_container">
             <a class="anchor_offset" id="play{{ play.playid }}"></a>
-            <h6>PLAY {{ play.playid }}</h6>
+            <h6>{{ play.gear }} gear: play {{ play.playid }}</h6>
             <h2 class="display">{{ play.title }}</h2> {{ play.output }}
         </div>
         {% endfor %}
