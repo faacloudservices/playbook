@@ -1,12 +1,12 @@
-<!-- TechFAR, built from "8 7 14" version  -->
+<!-- TechAMS, built from "8 7 14" version  -->
 
-# The TechFAR Handbook for Procuring Digital Services Using Agile Processes
+# The TechAMS Handbook for Procuring Digital Services Using Agile Processes
 
 ## Executive Summary
 
 In the Government, digital services projects too often fail to meet user expectations or contain unused or unusable features.  Several factors contribute to these outcomes, including the use of outdated development practices and, in some cases, overly narrow interpretations of what is allowed by acquisition regulations.  OMB is developing tools to significantly upgrade the ability of Government digital services to deliver better results to our citizens and improve the way we capitalize on information technology (IT [1]) to better serve the American people.  
 
-One tool is the [Digital Services Playbook](http://playbook.cio.gov "Link to Digital Services Playbook"), which identifies a series of “plays” drawn from proven private sector best practices to help agencies successfully deliver digital services.  Another tool is the TechFAR, which highlights flexibilities [2]  in the Federal Acquisition Regulation (FAR [3]) that can help agencies implement “plays” in the Playbook that would be accomplished with acquisition support.
+One tool is the [Digital Services Playbook](http://playbook.cio.gov "Link to Digital Services Playbook"), which identifies a series of “plays” drawn from proven private sector best practices to help agencies successfully deliver digital services.  Another tool is the TechAMS, which highlights flexibilities [2]  in the FAA's Acquisition Management System (AMS) that can help agencies implement “plays” in the Playbook that would be accomplished with acquisition support.
 
 The vision for the TechFAR is that it will be expanded in future iterations to address many areas of IT.  This edition of the TechFAR is aligned with the [Digital Services Playbook's](http://playbook.cio.gov "Link to Digital Services Playbook") guidance to use contractors to support an iterative development process.  In particular, it emphasizes Agile software development [4],  a technique for doing modular contracting and a proven commercial methodology that is characterized by incremental and iterative processes where releases are produced in close collaboration with the customer.  This process improves investment manageability, lowers risk of project failure, shortens the time to realize value, and allows agencies to better adapt to changing needs.  Agile software development is geared towards projects where significant design and development are needed, such as digital services (e.g., healthcare.gov or recreation.gov) as well as internal digital services and business systems.  It is not designed to be used for commodity IT purchases, especially where commercially available off-the-shelf items can be used as-is at a lower cost and lower risk to the Government.  
 
